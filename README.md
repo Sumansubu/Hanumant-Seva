@@ -1,2 +1,2 @@
 # Hanumant-Seva
-A Responsive and Use-friendly NGO Website.
+A Responsive and User-friendly NGO Website.
